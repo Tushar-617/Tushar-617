@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**Tushar-617/Tushar-617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I’m Tushar Kushwaha  
+💻 I’m passionate about Full Stack Web Development  
+🌱 Currently building web apps  
+🚀 Deploying projects live using Vercel and Render  
+🛠️ Actively refining GitHub repositories for professional presentation    
+🎯 On a mission to create scalable, portfolio-ready applications  
+📫 Reach me at tusharkushwaha617@gmail.com  
+🔗 [Explore my GitHub Projects](https://github.com/Tushar-617)
+### 🌐 Connect with me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LinkedIn](https://www.linkedin.com/in/tushar-kushwaha617)
+[![Instagram](https://www.instagram.com/tushar_kushwaha617)
 -->
