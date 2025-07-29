@@ -1,4 +1,4 @@
-<!--
+<!-
 👋 Hi I’m Tushar Kushwaha  
 💻 I’m passionate about Full Stack Web Development  
 🌱 Currently building web apps  
