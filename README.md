@@ -1,7 +1,7 @@
-## Hi there 👋
+
 
 <!--
-👋 I’m Tushar Kushwaha  
+👋 Hi I’m Tushar Kushwaha  
 💻 I’m passionate about Full Stack Web Development  
 🌱 Currently building web apps  
 🚀 Deploying projects live using Vercel and Render  
