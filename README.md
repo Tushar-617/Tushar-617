@@ -1,7 +1,7 @@
 <!-
 👋 Hi I’m Tushar Kushwaha  
 💻 I’m passionate about Full Stack Web Development  
-🌱 Currently building web apps  
+🌱 Currently building web apps using React + Node.js + PostgreSQL  
 🚀 Deploying projects live using Vercel and Render  
 🛠️ Actively refining GitHub repositories for professional presentation    
 🎯 On a mission to create scalable, portfolio-ready applications  
